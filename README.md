@@ -8,8 +8,5 @@ Focused on:
 - Injection vulnerabilities
 - Client-side and server-side security testing
 
-Selected work:
-- Reflected XSS case study (see repositories)
-
 Contact:
 security@averonsec.com
