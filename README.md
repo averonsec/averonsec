@@ -1,6 +1,6 @@
 # Averon Averenkov
 
-Independent Security Researcher | Web Application Security
+Security Researcher | Web Application Security
 
 Focused on:
 - Authentication & authorization flaws
