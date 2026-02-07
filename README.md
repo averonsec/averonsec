@@ -1,16 +1,13 @@
-## Hi there 👋
+Independent Security Researcher | Web Application Security
 
-<!--
-**averonsec/averonsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focused on:
+- Authentication & authorization flaws
+- Business logic issues
+- Injection vulnerabilities
+- Client-side and server-side security testing
 
-Here are some ideas to get you started:
+Selected work:
+- Reflected XSS case study (see repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact:
+security@averonsec.com
